@@ -52,7 +52,7 @@ DEFAULT_CONFIG = {
     },
     "DOWNLOAD_COMMANDS": {
         "OUTPUT_MEDIA_PATH": DEFAULT_OUTPUT_MEDIA,
-        "WAIT_BEFORE_DOWNLOADING": False,
+        "WAIT_BEFORE_DOWNLOADING": True,
         "ADDITIONAL_SUBS": True,
         "TOOL_PARAMETERS": {
             "VOD": TOOL_PARAMS["VOD"],
